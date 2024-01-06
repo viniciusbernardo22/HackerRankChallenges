@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\obj\Debug\net8.0\HackerRankChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\obj\Debug\net8.0\HackerRankChallenge1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\obj\Debug\net8.0\HackerRankChallenge1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\obj\Debug\net8.0\HackerRankChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\bin\Debug\net8.0\HackerRankChallenge1.exe
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\bin\Debug\net8.0\HackerRankChallenge1.deps.json
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\bin\Debug\net8.0\HackerRankChallenge1.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\bin\Debug\net8.0\HackerRankChallenge1.dll
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\bin\Debug\net8.0\HackerRankChallenge1.pdb
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\obj\Debug\net8.0\HackerRankChallenge1.dll
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\obj\Debug\net8.0\refint\HackerRankChallenge1.dll
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\obj\Debug\net8.0\HackerRankChallenge1.pdb
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\obj\Debug\net8.0\HackerRankChallenge1.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenge1\obj\Debug\net8.0\ref\HackerRankChallenge1.dll
