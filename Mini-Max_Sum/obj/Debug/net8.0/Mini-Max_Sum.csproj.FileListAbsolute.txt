@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\bin\Debug\net8.0\Mini-Max_Sum.exe
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\bin\Debug\net8.0\Mini-Max_Sum.deps.json
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\bin\Debug\net8.0\Mini-Max_Sum.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\bin\Debug\net8.0\Mini-Max_Sum.dll
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\bin\Debug\net8.0\Mini-Max_Sum.pdb
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\obj\Debug\net8.0\Mini-Max_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\obj\Debug\net8.0\Mini-Max_Sum.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\obj\Debug\net8.0\Mini-Max_Sum.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\obj\Debug\net8.0\Mini-Max_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\obj\Debug\net8.0\Mini-Max_Sum.sourcelink.json
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\obj\Debug\net8.0\Mini-Max_Sum.dll
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\obj\Debug\net8.0\refint\Mini-Max_Sum.dll
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\obj\Debug\net8.0\Mini-Max_Sum.pdb
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\obj\Debug\net8.0\Mini-Max_Sum.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Courses\HackerRankChallenges\Mini-Max_Sum\obj\Debug\net8.0\ref\Mini-Max_Sum.dll
